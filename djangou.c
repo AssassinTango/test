@@ -2,6 +2,5 @@
 
 int main()
 {
-    printf("git test\r\n")
-    ;
+    printf("git test\r\n");
 }
